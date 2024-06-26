@@ -5,7 +5,7 @@
         "ext-dom": "*",
         "behat/mink": "^1.11.0@dev",
         "seo2websites/browser-kit": "dev-master",
-        "wa72/htmlpagedom": "dev-master",
+        "wa72/htmlpagedom": "3.0.x-dev",
         "symfony/dom-crawler": "^7.1"
     },
     "require-dev": {
