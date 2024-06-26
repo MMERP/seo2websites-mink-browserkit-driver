@@ -18,7 +18,7 @@
         "php": ">=7.2",
         "ext-dom": "*",
         "behat/mink": "^1.11.0@dev",
-        "seo2websites/browser-kit": "^7.0",
+        "seo2websites/browser-kit": "dev-master",
         "wa72/htmlpagedom": "*",
         "symfony/dom-crawler": "7.1.*"
 
