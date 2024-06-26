@@ -40,5 +40,6 @@
             "url": "git@github.com:MMERP/seo2websites-browser-kit"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": false
 }
