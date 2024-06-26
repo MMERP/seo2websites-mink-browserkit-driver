@@ -37,7 +37,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:MMERP/seo2websites-browser-kit"
+            "url": "git@github.com:MMERP/seo2websites/browser-kit"
         }
     ],
     "minimum-stability": "dev"
