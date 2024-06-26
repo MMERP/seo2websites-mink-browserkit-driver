@@ -1,12 +1,12 @@
 {
     "name":         "seo2websites/mink-browserkit-driver",
     "require": {
-        "php": ">=7.2",
+        "php": ">=8.2",
         "ext-dom": "*",
         "behat/mink": "^1.11.0@dev",
-        "seo2websites/browser-kit": "dev-master",
+        "seo2websites/browser-kit": "master",
         "wa72/htmlpagedom": "*",
-        "symfony/dom-crawler": "7.1.*"
+        "symfony/dom-crawler": "^7.1"
     },
     "require-dev": {
         "mink/driver-testsuite": "dev-master",
